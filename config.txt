@@ -1,27 +1,28 @@
 [GERAL]
-entrada = 5
+entrada = 100
 entrada_percentual = N
-conta = PRACTICE
+conta = REAL
 # PRACTICE / REAL
 
-stop_win = 50
-stop_loss = 50
-trailing_stop = S
+stop_win = 500
+stop_loss = 800
+trailing_stop = N
 trailing_stop_valor = 25
 payout = 80
+delay = 2
 
 martingale = S
 mgProxSinal = N
 valorGale = 2.3
-niveis = 1
+niveis = 2
 
-analisarTendencia = N
-noticias = N
+analisarTendencia = S
+noticias = S
 timerzone = N
 hitVela = N
 
 [CICLOS]
-usar_ciclos = S
+usar_ciclos = N
 nivel_ciclos = 2
 
 [telegram]
@@ -30,5 +31,5 @@ telegram_id = YOUR TELEGRAM ID
 usar_bot = N
 
 [CONTA]
-email = YOUR E-MAIL IQ OPTION
-senha = YOUR PASSWORD IQ OPTION
+email = eduardocbrandes@gmail.com
+senha = Whatahellxcv5!
